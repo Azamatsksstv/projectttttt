@@ -26,4 +26,14 @@
         android:layout_marginEnd="10dp"
         android:hint="Enter UserName"
         android:inputType="textEmailAddress" />
+    <EditText
+        android:id="@+id/idEdtPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idEdtUserName"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:hint="Enter Password"
+        android:inputType="textPassword" />
 </RelativeLayout>
