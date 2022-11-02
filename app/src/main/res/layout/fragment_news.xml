@@ -41,7 +41,7 @@
             android:layout_columnWeight="1"
             android:layout_row="0"
             android:inputType="textPersonName"
-            android:text="Name">
+            android:text="Name"/>
 
         <Button
             android:id="@+id/button"
@@ -50,7 +50,6 @@
             android:layout_column="1"
             android:drawableRight="@drawable/ic_baseline_search_24"
             android:paddingRight="20dp"
-
             android:layout_row="0"
             android:text="Button"/>
     </GridLayout>
