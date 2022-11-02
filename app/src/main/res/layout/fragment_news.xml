@@ -13,7 +13,6 @@
         android:text="NEWS"
         android:textColor="@color/black"
         android:textSize="20sp"
-        android:background="@color/grey"
         android:padding="10dp"
         android:textAlignment="center"/>
 
@@ -34,8 +33,6 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:hint="Search"
-            android:textColor="@color/grey"
-            android:textColorHint="@color/grey"
             android:padding="10dp"
             android:layout_column="0"
             android:layout_columnWeight="1"
